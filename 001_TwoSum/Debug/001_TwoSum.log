@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\king\documents\visual studio 2015\projects\leetcode\001_twosum\源.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\king\documents\visual studio 2015\projects\leetcode\001_twosum\源.cpp(38): warning C4715: “Solution::twoSum”: 不是所有的控件路径都返回值
+  001_TwoSum.vcxproj -> C:\Users\KinG\Documents\Visual Studio 2015\Projects\LeetCode\Debug\001_TwoSum.exe
+  001_TwoSum.vcxproj -> C:\Users\KinG\Documents\Visual Studio 2015\Projects\LeetCode\Debug\001_TwoSum.pdb (Partial PDB)
